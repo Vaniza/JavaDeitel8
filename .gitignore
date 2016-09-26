@@ -2,3 +2,7 @@
 .recommenders
 RemoteSystemsTempFiles/
 
+01-Cap-Introducao/.settings/
+01-Cap-Introducao/bin/
+01-Cap-Introducao/.classpath
+01-Cap-Introducao/.project
