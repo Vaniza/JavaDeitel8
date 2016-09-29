@@ -2,7 +2,17 @@
 .recommenders
 RemoteSystemsTempFiles/
 
-01-Cap-Introducao/.settings/
-01-Cap-Introducao/bin/
+01-Cap-Introducao/.settings
+01-Cap-Introducao/bin
 01-Cap-Introducao/.classpath
 01-Cap-Introducao/.project
+
+02-Cap-IntroAppJava/bin
+02-Cap-IntroAppJava/.settings
+02-Cap-IntroAppJava/.classpath
+02-Cap-IntroAppJava/.project
+
+#bin
+#.settings
+#.classpath
+#.project
