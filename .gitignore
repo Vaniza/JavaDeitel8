@@ -12,6 +12,11 @@ RemoteSystemsTempFiles/
 02-Cap-IntroAppJava/.classpath
 02-Cap-IntroAppJava/.project
 
+03-Cap-Intro-ClassesObjetos/bin
+03-Cap-Intro-ClassesObjetos/.settings
+03-Cap-Intro-ClassesObjetos/.classpath
+03-Cap-Intro-ClassesObjetos/.project
+
 #bin
 #.settings
 #.classpath
